@@ -5,6 +5,7 @@ Binary classification of road images comparing a fully connected network, two co
 ## Results
 
 | Model | Test Set Accuracy |
+|---|---|
 | FCN   | 87.6%             |
 | CNN1  | 96.5%             |
 | CNN2  | 97.7%             |
