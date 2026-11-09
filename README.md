@@ -13,9 +13,11 @@ Models were analyzed using early stopping on validation accuracy and test accura
 | CNN2  | 97.7%             |
 | VGG16 | 96.6%             |
 
+# Highest test set accuracy plot:
 ![CNN2 training curves](results/cnn2.png)
+
+# GAN Output:
 ![GAN samples](results/GAN.png)
-![Dataset sample with filters](dataset-samples/example-1.png)
 
 See pothole-detection-notebook for final test set accuracies for each model. As can be seen from results/ the GAN generated image quality is limited based on computational power and insufficient training data necessary for a higher performing GAN. In future iterations, additional datasets will be aggregated together to improve the photorealism of these images so that they start to more closely resemble the input images.
 
