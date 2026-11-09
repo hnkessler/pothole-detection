@@ -16,4 +16,4 @@ dataset-samples/ contains samples of images from the dataset shown as ground tru
 
 ## Dataset
 
-- Source: Nomal-Pothole-dataset, Neha Tanwar (Researcher), 2024. https://zenodo.org/records/13334878
+Source: Nomal-Pothole-dataset, Neha Tanwar (Researcher), 2024. https://zenodo.org/records/13334878
